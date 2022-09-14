@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudentJeromeSmith", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2Variables", "Week2Variables\Week2Variables.csproj", "{D11A7FF6-7644-4760-B77A-FDECD8AAF2ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3DecisionMaking", "Week3DecisionMaking\Week3DecisionMaking.csproj", "{37247455-3054-44CA-95B8-D7C0A0336C9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D11A7FF6-7644-4760-B77A-FDECD8AAF2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D11A7FF6-7644-4760-B77A-FDECD8AAF2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D11A7FF6-7644-4760-B77A-FDECD8AAF2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37247455-3054-44CA-95B8-D7C0A0336C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37247455-3054-44CA-95B8-D7C0A0336C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37247455-3054-44CA-95B8-D7C0A0336C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37247455-3054-44CA-95B8-D7C0A0336C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
