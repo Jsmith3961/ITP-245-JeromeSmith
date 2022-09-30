@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3DecisionMaking", "Week
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4ObjectandLoops", "Week4ObjectandLoops\Week4ObjectandLoops.csproj", "{966B764F-CE00-49EF-B5DB-D3B68EA923FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5Methods", "Week5Methods\Week5Methods.csproj", "{5679E9FC-5909-4684-8C77-B2003850A576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{966B764F-CE00-49EF-B5DB-D3B68EA923FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{966B764F-CE00-49EF-B5DB-D3B68EA923FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{966B764F-CE00-49EF-B5DB-D3B68EA923FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5679E9FC-5909-4684-8C77-B2003850A576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5679E9FC-5909-4684-8C77-B2003850A576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5679E9FC-5909-4684-8C77-B2003850A576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5679E9FC-5909-4684-8C77-B2003850A576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
