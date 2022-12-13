@@ -27,7 +27,7 @@ namespace Project2ClassesAndObjects
                 var quantity = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine($"\nEnter the cost for Part Number {partNumber}");
                 var cost = Convert.ToDouble(Console.ReadLine());
-                part = new Part (partNumber, name, description, cost, quantity);
+                part = new Part (partNumber, quantity, cost, name, description, count );
                 parts.Add(part);
 
             }
