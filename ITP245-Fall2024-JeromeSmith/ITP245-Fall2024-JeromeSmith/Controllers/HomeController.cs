@@ -16,9 +16,9 @@ namespace ITP245_Fall2024_JeromeSmith.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+            ViewBag.Message = "Jerome's About Page.";
+            var about = new About();
+            return View(about);
         }
 
         public ActionResult Contact()
