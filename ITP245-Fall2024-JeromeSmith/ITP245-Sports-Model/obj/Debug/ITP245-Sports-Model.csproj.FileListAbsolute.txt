@@ -1,0 +1,12 @@
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\ITP245-Sports-Model.dll.config
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\ITP245-Sports-Model.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\ITP245-Sports-Model.pdb
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\EntityFramework.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\EntityFramework.xml
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\obj\Debug\ITP245-Sports-Model.csproj.AssemblyReference.cache
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\obj\Debug\ITP245-Sports-Model.csproj.CoreCompileInputs.cache
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\obj\Debug\ITP245-S.8370C8EC.Up2Date
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\obj\Debug\ITP245-Sports-Model.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith\ITP245-Sports-Model\obj\Debug\ITP245-Sports-Model.pdb
