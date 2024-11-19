@@ -1,0 +1,12 @@
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\ITP245-Agile_Model.dll.config
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\ITP245-Agile_Model.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\ITP245-Agile_Model.pdb
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\EntityFramework.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\EntityFramework.xml
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\obj\Debug\ITP245-Agile_Model.csproj.AssemblyReference.cache
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\obj\Debug\ITP245-Agile_Model.csproj.CoreCompileInputs.cache
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\obj\Debug\ITP245-A.C785E24B.Up2Date
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\obj\Debug\ITP245-Agile_Model.dll
+C:\Users\jerom\source\repos\ITP245-Fall2024-JeromeSmith2\ITP245-Agile_Model\obj\Debug\ITP245-Agile_Model.pdb
