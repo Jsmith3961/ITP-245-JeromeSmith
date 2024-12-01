@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\jerom\source\repos\ITP-Fall2024-JeromeSmith4\ITP-Fall2024-JeromeSmith4\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2024-12-01T02:38:47.5936696Z||;True|2024-11-27T17:20:58.9954425-05:00||;</History>
+    <History>True|2024-12-01T23:05:09.4534957Z||;True|2024-11-30T21:38:47.5936696-05:00||;True|2024-11-27T17:20:58.9954425-05:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -22,10 +22,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>06/16/2024 16:47:02</publishTime>
     </File>
     <File Include="bin/ITP-Fall2024-JeromeSmith4.dll">
-      <publishTime>11/30/2024 21:38:40</publishTime>
+      <publishTime>12/01/2024 18:05:08</publishTime>
     </File>
     <File Include="bin/ITP-Fall2024-JeromeSmith4.pdb">
-      <publishTime>11/30/2024 21:38:40</publishTime>
+      <publishTime>12/01/2024 18:05:08</publishTime>
     </File>
     <File Include="bin/ITP245-Sports-Model.dll">
       <publishTime>11/30/2024 21:38:40</publishTime>
@@ -312,8 +312,17 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Content/bootstrap.rtl.min.css.map">
       <publishTime>11/27/2024 17:11:20</publishTime>
     </File>
+    <File Include="Content/Journal.css">
+      <publishTime>12/01/2024 17:39:11</publishTime>
+    </File>
+    <File Include="Content/Pulse.css">
+      <publishTime>12/01/2024 17:41:32</publishTime>
+    </File>
     <File Include="Content/Site.css">
       <publishTime>11/27/2024 17:11:12</publishTime>
+    </File>
+    <File Include="Content/Sports.css">
+      <publishTime>12/01/2024 17:30:13</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>11/27/2024 17:11:12</publishTime>
@@ -391,19 +400,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/27/2024 17:11:23</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>11/30/2024 21:36:10</publishTime>
+      <publishTime>12/01/2024 17:20:34</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
       <publishTime>11/27/2024 17:11:12</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>11/30/2024 21:36:10</publishTime>
+      <publishTime>12/01/2024 17:22:18</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>11/27/2024 17:11:12</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>11/27/2024 17:11:12</publishTime>
+      <publishTime>12/01/2024 16:11:56</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>11/27/2024 17:11:12</publishTime>
@@ -412,7 +421,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/27/2024 17:11:12</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/30/2024 21:38:42</publishTime>
+      <publishTime>12/01/2024 18:05:09</publishTime>
     </File>
   </ItemGroup>
 </Project>

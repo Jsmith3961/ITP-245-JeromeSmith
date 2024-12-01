@@ -4,13 +4,41 @@
 @{
     ViewBag.Title = "About";
 }
+@section Styles{
+    <style>
+        
+    </style>
+}
 <main aria-labelledby="title">
     <h1>@Model.Name</h1>
-    <p>@Model.Email</p>
+    <div class=" address">
+        <address>
+            <a href="mailto:@Model.Email">@Model.Email</a>
+        </address>
+    </div>
+   
+
     <p>@Model.Hometown</p>
     <p>@Model.Major</p>
     <p>@Model.Education</p>
-    <table> <thead> <tr> <th>Experience</th> </tr> </thead> <tbody> @foreach (var name in Model.Experience)
-    {<tr> <td>@name</td> </tr>} </tbody> </table>
+
+
+
+    <table>
+        <thead>
+            <tr>
+                <th>Experience</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var name in Model.Experience)
+
+            {
+                <tr>
+                    <td>@name</td>
+                </tr>
+}
+        </tbody>
+    </table>
 
 </main>

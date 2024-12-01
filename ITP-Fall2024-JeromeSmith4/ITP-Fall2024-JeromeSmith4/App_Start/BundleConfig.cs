@@ -1,5 +1,8 @@
-﻿using System.Web;
+﻿using System.Configuration;
+using System.Linq;
+using System.Web;
 using System.Web.Optimization;
+using ITP245_Sports_Model;
 
 namespace ITP_Fall2024_JeromeSmith4
 {
@@ -21,10 +24,17 @@ namespace ITP_Fall2024_JeromeSmith4
 
             bundles.Add(new Bundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js"));
+            using (var entities = new SportsEntities())
+            {
 
-            bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                var options = entities.SystemOptions.First();
+                bundles.Add(new StyleBundle("~/Content/css").Include(
+                          //"~/Content/Pulse.css",
+                          //$"~/Content/{ConfigurationManager.AppSettings["Bootstrap"]}.css",
+                          //"~/Content/Sports.css",
+                          $"~/Content/{options.Bootstrap}.css",
+                          "~/Content/site.css"));
+            }
+            }
         }
-    }
 }

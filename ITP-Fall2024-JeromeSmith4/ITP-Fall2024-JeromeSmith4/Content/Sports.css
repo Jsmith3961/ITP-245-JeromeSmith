@@ -1,0 +1,26 @@
+﻿body {
+    background-color: linen
+}
+
+h1 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.address {
+    border: 5px ridge black;
+    border-radius: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 200px;
+}
+h2 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+table caption {
+    background-color: white
+
+}
