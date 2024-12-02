@@ -74,6 +74,9 @@
     <Compile Include="Game.cs">
       <DependentUpon>SportsModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="GameStatus.cs">
+      <DependentUpon>SportsModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Office.cs">
       <DependentUpon>SportsModel.tt</DependentUpon>
     </Compile>

@@ -85,7 +85,7 @@
     <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
     <Property Name="HomeTeamID" Type="Int32" Nullable="false" />
     <Property Name="VisitorTeamID" Type="Int32" Nullable="false" />
-    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <Property Name="StatusId" Type="SportsModel.GameStatus" Nullable="false" />
     <Property Name="LastModifiedById" Type="Int32" Nullable="false" />
     <Property Name="LastModified" Type="DateTime" Precision="3" />
     <Property Name="HomeScore" Type="Int32" />
@@ -393,4 +393,9 @@
       <End Role="AspNetUsers" EntitySet="AspNetUsers" />
     </AssociationSet>
   </EntityContainer>
+  <EnumType Name="GameStatus">
+    <Member Name="Win" Value="1" />
+    <Member Name="Loss" Value="2" />
+    <Member Name="Draw" Value="3" />
+  </EnumType>
 </Schema>

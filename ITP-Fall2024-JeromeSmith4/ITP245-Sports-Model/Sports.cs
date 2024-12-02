@@ -16,17 +16,23 @@ namespace ITP245_Sports_Model
     {
         private sealed class @GameMetadata
         {
-            [Display(Name = "Game")]
-            public string Name { get; }
+            [Display(Name = "HomeTeam")]
+            public int HomeTeamID { get; }
 
+            [Display(Name = "VisitorTeam")]
 
+            public int VisitorTeamID { get; }
+
+            [Display(Name = "Status")]
+            public int StatusId { get; }
         }
     }
 
     public partial class Team : ISports { }
 
-    public partial class Player : ISports 
+    public partial class Player : ISports
     {
         public string Name => $"{LastName}, {FirstName}";
+
     }
 }

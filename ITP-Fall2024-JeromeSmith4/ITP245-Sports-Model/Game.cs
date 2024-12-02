@@ -19,7 +19,7 @@ namespace ITP245_Sports_Model
         public System.DateTime DateTime { get; set; }
         public int HomeTeamID { get; set; }
         public int VisitorTeamID { get; set; }
-        public int StatusId { get; set; }
+        public GameStatus StatusId { get; set; }
         public int LastModifiedById { get; set; }
         public Nullable<System.DateTime> LastModified { get; set; }
         public Nullable<int> HomeScore { get; set; }

@@ -9,16 +9,31 @@
     <caption>Games</caption>
     <tr>
         <th>
-            @Html.DisplayNameFor(details => details.Team)
+            @Html.DisplayNameFor(details => details.DateTime)
         </th>
+        <th>
+            @Html.DisplayNameFor(details => details.HomeTeamID)
+        </th>
+        <th>@Html.DisplayNameFor(details => details.VisitorTeamID) </th>
+        <th>@Html.DisplayNameFor(details => details.Field) </th>
+        <th>@Html.DisplayNameFor(details => details.HomeScore) </th>
+        <th>@Html.DisplayNameFor(details => details.VisitorScore) <th/>
+        <th>@Html.DisplayNameFor(details => details.StatusId) </th>
     </tr>
     @foreach (var games in Model)
     {
         <tr>
             <td>
-                @Html.DisplayFor(detailsItem => games.GameId)
+                @Html.DisplayFor(detailsItem => games.DateTime)
             </td>
-            
+            <td>
+                @Html.DisplayFor(detailsItem => games.HomeTeamID)
+            </td>
+            <td>@Html.DisplayFor(detailsItem => games.VisitorTeamID)</td>
+            <td> @Html.DisplayFor(detailsItem => games.Field)</td>
+            <td> @Html.DisplayFor(detailsItem => games.HomeScore)</td>
+            <td> @Html.DisplayFor(detailsItem => games.VisitorScore)</td>
+            <td> @Html.DisplayFor(detailsItem => games.StatusId)</td>
         </tr>
     }
 
