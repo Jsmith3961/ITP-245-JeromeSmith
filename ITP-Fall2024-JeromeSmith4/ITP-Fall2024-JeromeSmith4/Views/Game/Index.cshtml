@@ -1,0 +1,26 @@
+﻿@model  IEnumerable<ITP245_Sports_Model.Game>
+@{
+    ViewBag.Title = "Games";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table>
+    <caption>Games</caption>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(details => details.Team)
+        </th>
+    </tr>
+    @foreach (var games in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(detailsItem => games.GameId)
+            </td>
+            
+        </tr>
+    }
+
+</table>
+
